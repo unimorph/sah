@@ -9,9 +9,9 @@ Source: [apertium-sah](https://github.com/apertium/apertium-sah)
 
 UniMorph annotation: Maria Ryskina
 
-Apertium data collection: Sardana Ivanova, Christopher Straughn, Francis Tyers, Jonathan Washington (https://github.com/apertium/apertium-sah/blob/master/AUTHORS)
+Apertium data collection and annotation: Sardana Ivanova, Christopher Straughn, Francis Tyers, Jonathan Washington (https://github.com/apertium/apertium-sah/blob/master/AUTHORS)
 
-For data description, see Ivanova et al., [Tools for supporting language learning for Sakha](https://www.aclweb.org/anthology/W19-6117)
+For data collection methodology, see Ivanova et al., [Tools for supporting language learning for Sakha](https://www.aclweb.org/anthology/W19-6117)
 
 ## References
 
