@@ -15,6 +15,8 @@ For data collection methodology, see Ivanova et al., [Tools for supporting langu
 
 ## References
 
+If you use this data in your research, please cite the following publications:
+
 ```
 @inproceedings{apertium:2019,
   title = {Free/open-source technologies for Turkic languages developed in the Apertium project},
@@ -29,17 +31,6 @@ For data collection methodology, see Ivanova et al., [Tools for supporting langu
   booktitle = {Proceedings of the 22nd Nordic Conference on Computational Linguistics},
   year = {2019},
   url = "https://www.aclweb.org/anthology/W19-6117",
-}
-
-@article{forcada2011afp,
-  author = {Forcada, Mikel L. and {Ginestí-Rosell}, Mireia and Nordfalk, Jacob and {O’Regan}, Jim and {Ortiz-Rojas}, Sergio and {Pérez-Ortiz}, Juan Antonio and {Sánchez-Martínez}, Felipe and {Ramírez-Sánchez}, Gema and Tyers, Francis M.},
-  journal = {Machine Translation},
-  keywords = {MT RBMT apertium},
-  number = {2},
-  pages = {127--144},
-  title = {Apertium: a free/open-source platform for rule-based machine translation},
-  volume = {25},
-  year = {2011}
 }
 ```
 
