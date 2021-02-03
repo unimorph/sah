@@ -22,7 +22,8 @@ If you use this data in your research, please cite the following publications:
   title = {Free/open-source technologies for Turkic languages developed in the Apertium project},
   author = {Jonathan North Washington and Ilnar Salimzianov and Francis M. Tyers and Memduh Gökırmak and Sardana Ivanova and Oğuzhan Kuyrukçu},
   booktitle = {Proceedings of the International Conference on Turkic Language Processing (TURKLANG 2019)},
-  year = {2019},
+  year = {2021},
+  pubstate = {to appear}
 }
 
 @inproceedings{ivanova-etal-2019-tools,
