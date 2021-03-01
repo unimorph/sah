@@ -13,6 +13,12 @@ Apertium data collection and annotation: Sardana Ivanova, Christopher Straughn, 
 
 For data collection methodology, see Ivanova et al., [Tools for supporting language learning for Sakha](https://www.aclweb.org/anthology/W19-6117)
 
+## Language-specific tags
+
+* ``NPST``: nonpast tense (present/future tense, aorist)
+* ``PST;LGSPEC1``: definite past tense (assertive past, recent past)
+* ``PST;LGSPEC2``: indefinite past tense (non-assertive past)
+
 ## References
 
 If you use this data in your research, please cite the following publications:
